@@ -5,7 +5,12 @@ Developed an interactive Power BI dashboard for E-Commerce Sales to analyze sale
 # Repository Structure
 <a href = "https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Orders.csv"> Orders File</a><br/>
 <a href = "https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Details.csv"> Details File</a><br/>
-<a href="https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Sales.png">View Dashboard</a><br/>
+<a href="https://github.com/user-attachments/assets/cad3dbc5-4f64-4c64-a1a1-1d430b7749f2" target="_blank">
+  <img width="897" height="508" alt="Sales" src="https://github.com/user-attachments/assets/cad3dbc5-4f64-4c64-a1a1-1d430b7749f2" />
+</a>
+<br/>
+<a href="https://github.com/user-attachments/assets/cad3dbc5-4f64-4c64-a1a1-1d430b7749f2" target="_blank">View Dashboard</a>
+
 <a href="https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Analysing%20Data%20with%20Power%20Bi.pbix">Power Bi file</a>
 
 
