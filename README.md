@@ -1,18 +1,12 @@
 # Ecommerce-Sales-Dashboard
 Developed an interactive Power BI dashboard for E-Commerce Sales to analyze sales performance, profit trends, and regional insights. Applied data cleaning, DAX measures, and visual storytelling to provide actionable insights for decision-making.
 
-# Orders File
 
+# Repository Structure
 <a href = "https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Orders.csv"> Orders File</a>
-
-# Details File
-
 <a href = "https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Details.csv"> Details File</a>
-
-
-# Dashboard Image
-
 <a href="https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Sales.png">View Dashboard</a>
+<a href="https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Analysing%20Data%20with%20Power%20Bi.pbix">Power Bi file</a>
 
 
 # Key Insights
