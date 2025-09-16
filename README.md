@@ -7,7 +7,7 @@ Developed an interactive Power BI dashboard for E-Commerce Sales to analyze sale
 
 # Dashboard Image
 
-<a href="https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Sales.png">
+<a href="https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Sales.png">View Dashboard</a>
 
 
 # Key Insights
