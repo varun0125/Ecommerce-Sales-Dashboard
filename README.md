@@ -6,7 +6,7 @@ Developed an interactive Power BI dashboard for E-Commerce Sales to analyze sale
 <a href = "https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Orders.csv"> Orders File</a><br/>
 <a href = "https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Details.csv"> Details File</a><br/>
 <a href="https://github.com/user-attachments/assets/cad3dbc5-4f64-4c64-a1a1-1d430b7749f2" target="_blank">
-  <img width="897" height="508" alt="Sales" src="https://github.com/user-attachments/assets/cad3dbc5-4f64-4c64-a1a1-1d430b7749f2" />
+<img width="990" height="555" alt="all time sale" src="https://github.com/user-attachments/assets/38c352fc-9e09-4e00-bd71-69e6adbf988f" />
 </a>
 <br/>
 <a href="https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/all%20time%20sale.png">View Dashboard</a>
