@@ -16,3 +16,14 @@ It provides insights into key business metrics such as:
 ✅ Regional Performance – Compare sales across different regions
 
 ✅ Time-based Trends – Analyze monthly and yearly performance
+
+
+# 🛠 Tools & Skills Used
+
+Power BI Desktop for data modeling and visualization
+
+DAX (Data Analysis Expressions) for calculated fields & measures
+
+Data Cleaning & Transformation in Power Query
+
+Data Visualization & Storytelling for business insights
