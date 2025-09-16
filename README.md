@@ -2,6 +2,8 @@
 Developed an interactive Power BI dashboard for E-Commerce Sales to analyze sales performance, profit trends, and regional insights. Applied data cleaning, DAX measures, and visual storytelling to provide actionable insights for decision-making.
 
 
+# Key Insights
+
 This project is an interactive sales analysis dashboard built using Power BI.
 It provides insights into key business metrics such as:
 
