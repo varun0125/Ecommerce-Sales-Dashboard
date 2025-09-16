@@ -5,6 +5,10 @@ Developed an interactive Power BI dashboard for E-Commerce Sales to analyze sale
 
 <a href = "https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Orders.csv"> Orders File</a>
 
+# Details File
+
+<a href = "https://github.com/varun0125/Ecommerce-Sales-Dashboard/blob/main/Details.csv"> Details File</a>
+
 
 # Dashboard Image
 
